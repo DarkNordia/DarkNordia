@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm DarkNordia
 
-<!--
-**DarkNordia/DarkNordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building clean, fast, and privacy-focused software.
 
-Here are some ideas to get you started:
+Focused on frontend development, open-source projects, minimalist design, and experimental web apps. Interested in creating tools that feel lightweight, responsive, and useful without unnecessary complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+
+- Frontend interfaces
+- Open-source utilities
+- Privacy-focused projects
+- Browser extensions
+- Experimental web applications
+- Minimalist UI/UX design
+
+## Tech
+
+```txt
+JavaScript • TypeScript • HTML • CSS
+React • Node.js • Git • Python
